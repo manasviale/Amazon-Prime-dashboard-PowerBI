@@ -3,7 +3,7 @@
 An interactive Power BI dashboard analyzing Amazon Prime's content library, tracking over 9,600+ titles to uncover insights into content distribution, genres, and historical release trends.
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](Logo.png) 
+![Dashboard Screenshot](dashboard.png) 
 
 ## 🚀 Key Insights
 * **Content Split:** Movies heavily dominate the platform at **80.82%** (7.81K titles) compared to TV Shows at **19.18%** (1.85K titles).
